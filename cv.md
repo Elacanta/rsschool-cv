@@ -26,18 +26,10 @@ My goal is to become a good specialist in the field of frontend development. I h
 
 #### Code example
 
-```<!DOCTYPE HTML>
-<html>
-
-<body>
-
-  <script>
-    alert( 'Hello, world!' );
-  </script>
-
-</body>
-
-</html>
+```
+function Hello() {
+    alert("Привет, мир!");
+}
 ```
 
 
