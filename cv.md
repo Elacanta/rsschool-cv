@@ -24,6 +24,23 @@ My goal is to become a good specialist in the field of frontend development. I h
 
 - С.
 
+#### Code example
+
+```<!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <script>
+    alert( 'Hello, world!' );
+  </script>
+
+</body>
+
+</html>
+```
+
+
 #### Experience
 
 Work experience related to software development was at «Rocket and Space Center «Progress» (2006-2020). I used C and the low-level programming language Yauza in my work. I developed algorithms, wrote and debugged programs, developed documentation. 
