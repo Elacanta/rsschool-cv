@@ -42,5 +42,5 @@ No commercial experience in software development.
 
 *2000-2006* Samara State University, Faculty of Mechanics and Mathematics, specialty "Computer Security".
 
-English-level B2, I periodically practice communication in language applications.
+English-level A2, I periodically practice communication in language applications.
 
